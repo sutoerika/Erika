@@ -1,0 +1,4 @@
+1. SELECT Name FROM Artist
+2. SELECT count (*) from Album
+3. SELECT * FROM Invoice WHERE BillingCountry = 'Germany'
+4. SELECT * FROM Customer WHERE Country = 'France'
